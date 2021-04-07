@@ -1,6 +1,7 @@
 # maven-project
 
 Simple Maven Project
+Tomcat installation guide : https://github.com/ValaxyTech/Simple-DevOps-Project/blob/master/Tomcat/tomcat_installation.MD
 
 video: https://www.youtube.com/watch?v=G_UCeeb5EPc&t=322s
 
