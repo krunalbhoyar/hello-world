@@ -9,4 +9,4 @@ after scp command it u get error like permission denied the give user chown perm
 
 chown -R ubuntu:ubuntu /opt
 
-..
+.....
