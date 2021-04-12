@@ -1,4 +1,5 @@
 # maven-project
+#the script is for building java project and deploy it to tomcat on EC2 instance
 
 Simple Maven Project
 Tomcat installation guide : https://github.com/ValaxyTech/Simple-DevOps-Project/blob/master/Tomcat/tomcat_installation.MD
